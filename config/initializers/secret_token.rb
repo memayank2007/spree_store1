@@ -1,0 +1,1 @@
+SpreeStore1::Application.config.secret_key_base = '88756c6ab55c341ba94b9fa268f6dfb5101e764b00df67c6d44b97ea997642aa12f4b5c2966656b53dc0495f495ecb6917568615dc0dfd6e73055ee5b46616af'
